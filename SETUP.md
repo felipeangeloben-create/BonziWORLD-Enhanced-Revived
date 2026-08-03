@@ -43,7 +43,7 @@ node server.js
 <pre><span><code><a href="https://www.youtube.com/watch?v=krcYPrjIDzU" alt="Tutorial" title="Tutorial">Tutorial</a>
 </code></span></pre>
 
-After this, BonziWORLD Enhanced will be accessible on port 3000. ([localhost:3000](http://localhost:3000 "localhost on port 3000..."))
+After this, BonziWORLD Enhanced will be accessible on port 3000. ([localhost:3000](http://localhost:3000/ "localhost on port 3000..."))
 <br><br>
 ## Replit/Glitch
 If you are using replit or glitch this project will require additional steps.
@@ -52,9 +52,6 @@ If you are using replit or glitch this project will require additional steps.
 find an option called "isReplit" and set it to true.
 Once activated, this will secure your server from people viewing the server's godword by making it a random string of numbers which get regenerated each time the server reboots/restarted. Additionally, this setting will make the server be hosted on port 80 so it is compatable with these services.
 </code></span></pre>
-
-<hr>
-<br>
 
 ## Disclaimer
 I'm not responsible if you screw up anything with your computer while setting this up. I have no idea how you would, but someone will find a way. I also will not provide support for installing dependencies. If you have everything installed properly, the above commands will work.
