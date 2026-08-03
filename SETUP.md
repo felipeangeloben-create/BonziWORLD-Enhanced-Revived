@@ -7,8 +7,6 @@
 #### Requirements (optional)
 - Latest release of Nginx
 
-<br>
-
 ### Code Dependencies
 - Sass
 - Git
@@ -25,13 +23,10 @@
 - Nodemon
 - Got
 
-<br>
-<hr>
-
 In a terminal/command prompt, navigate to where you'd like BonziWORLD Enhanced to be placed and run the following:
 ```
-git clone https://github.com/CosmicStar98/BonziWORLD-Enhanced
-cd BonziWORLD-Enhanced
+git clone https://github.com/felipeangeloben-create/BonziWORLD-Enhanced-Revived
+cd BonziWORLD-Enhanced-Revived
 ```
 ## Client
 ```
