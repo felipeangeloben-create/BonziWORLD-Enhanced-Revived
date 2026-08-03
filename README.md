@@ -1,11 +1,6 @@
-# BonziWORLD Enhanced
+# BonziWORLD Enhanced Revived
 
-**This bonziworld respository houses the source code to BonziWORLD: Enhanced.**
-<br>
-The source code has been made public because I would like to move on from this project and work on something else. Since it's just been sitting here collecting dust, I figured I should make this public. Who knows, maybe somebody will find this useful.
-<br><br>
-## What is this?
-BonziWORLD Enhanced is a fork of vanilla BonziWORLD which provides simple qol improvements and bug fixes to the original.
+BonziWORLD Enhanced Revived is a fork of BonziWORLD Enhanced which provides simple qol improvements and bug fixes to the original.
 <br><br>
 
 #### Quick Links
