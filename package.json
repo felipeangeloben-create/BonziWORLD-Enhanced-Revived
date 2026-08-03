@@ -8,10 +8,10 @@
   "keywords": ["bonziworld"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/CosmicStar98/BonziWORLD-Enhanced.git"
+    "url": "https://github.com/felipeangeloben-create/BonziWORLD-Enhanced-Revived.git"
   },
   "bugs": {
-    "url": "https://github.com/CosmicStar98/BonziWORLD-Enhanced/issues"
+    "url": "https://github.com/felipeangeloben-create/BonziWORLD-Enhanced-Revived/issues"
   },
   "main": "server.js",
   "scripts": {
