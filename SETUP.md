@@ -1,4 +1,4 @@
-# BWE Setup Instructions
+# BonziWORLD Enhanched Revived Setup Instructions
 
 ### Requirements
 - NodeJS v19 or later
