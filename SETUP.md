@@ -30,11 +30,11 @@ In a terminal/command prompt, navigate to where you'd like BonziWORLD Enhanced t
 git clone https://github.com/felipeangeloben-create/BonziWORLD-Enhanced-Revived
 cd BonziWORLD-Enhanced-Revived
 ```
-## Client
+### Client
 ```
 This part is unneeded. The client comes pre-built.
 ```
-## Server
+### Server
 ```
 npm i --force
 node server.js
@@ -56,6 +56,6 @@ Once activated, this will secure your server from people viewing the server's go
 <hr>
 <br>
 
-#### Disclaimer
+## Disclaimer
 I'm not responsible if you screw up anything with your computer while setting this up. I have no idea how you would, but someone will find a way. I also will not provide support for installing dependencies. If you have everything installed properly, the above commands will work.
 
