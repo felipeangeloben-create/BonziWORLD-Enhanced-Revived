@@ -23,7 +23,7 @@
 - Nodemon
 - Got
 
-### Setup
+## Setup
 
 In a terminal/command prompt, navigate to where you'd like BonziWORLD Enhanced to be placed and run the following:
 ```
